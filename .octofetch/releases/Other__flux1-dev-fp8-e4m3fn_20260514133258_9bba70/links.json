@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4424",
+  "folder": "Other__flux1-dev-fp8-e4m3fn_20260514133258_9bba70",
+  "base_name": "Other__flux1-dev-fp8-e4m3fn_20260514133258_9bba70.safetensors",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/captnrz/Cloud-Downloads-3/releases/tag/co-releases-v1-4424",
+  "files": [
+    {
+      "name": "Other__flux1-dev-fp8-e4m3fn_20260514133258_9bba70.safetensors",
+      "url": "https://github.com/captnrz/Cloud-Downloads-3/releases/download/co-releases-v1-4424/Other__flux1-dev-fp8-e4m3fn_20260514133258_9bba70.safetensors",
+      "api_url": "https://api.github.com/repos/captnrz/Cloud-Downloads-3/releases/assets/420184548",
+      "id": 420184548,
+      "size": 91148,
+      "download_count": 0
+    }
+  ]
+}
